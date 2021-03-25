@@ -1,6 +1,9 @@
 # tf2-spy-nullifier
 This mod changes decloaking sound to a whistling sound and dead ringer's fake death decloaking sound to a f*cking vuvuzela.
 
+**Q:** How to download it?<br/>
+**A:** Click on the green button "Code" -> "Download ZIP".
+
 
 **Q:** How to install it?<br/>
 **A:** Put "Spy-Nullifier" folder inside Steam\steamapps\common\Team Fortress 2\tf\custom and run the game.
