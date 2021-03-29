@@ -28,6 +28,8 @@ This mod changes decloaking sound to a whistling sound and dead ringer's fake de
 **Q:** Does it work on servers with sv_pure 2 parameter (maximum restriction)?<br/>
 **A:** Yes.
 
+**Q:** Can it be detected by watching demos/P-REC demos?<br/>
+**A:** Absolutely not. What sound is heard on demos depends only on the watcher's tf2 configuration. So a person without this mod won't hear any difference.
 
 **Q:** How does it work?<br/>
 **A:** Inside "tf2_misc_dir.vpk" file there is a file called "game_sounds_player.txt". That file tells the game what sound should be played for certain actions. The game doesn't verify at all whether you have modified that file or not. This has been known for years. BTW that's exactly how Mastercomfig's No Soundscapes mod works.
