@@ -41,5 +41,5 @@ This mod changes decloaking sound to a whistling sound and dead ringer's fake de
 **A:** This mod was removed from the sites mentioned above.
 
 
-Video presentation:
+Video presentation:<br/>
 [![Video presentation](https://img.youtube.com/vi/gRAgoLAGwK0/0.jpg)](https://www.youtube.com/watch?v=gRAgoLAGwK0)
