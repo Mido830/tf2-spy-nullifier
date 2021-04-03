@@ -40,7 +40,7 @@ This mod changes decloaking sound to a whistling sound and dead ringer's fake de
 
 
 **Q:** Why did you create this? It's basically a cheat!<br/>
-**A:** Yes, it is. It's a perfect, undetectable cheat. It has been discovered at least 6-7 years ago but not many people know about it and Valve doesn't seem to care, even though it has been reported. I created this mod to prove it's possible to make such a mod and to increase the chance for Valve to patch it.
+**A:** Yes, it is. It's a perfect, undetectable cheat. It has been discovered at least 6-7 years ago but not many people know about it and Valve doesn't seem to care, even though it has been reported. I created this mod to prove it's possible to make such a mod and to increase the pressure on Valve to patch it.
 
 
 Video presentation:<br/>
