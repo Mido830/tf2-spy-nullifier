@@ -39,8 +39,8 @@ This mod changes decloaking sound to a whistling sound and dead ringer's fake de
 **A:** The game lets you control pitch and volume of sounds via scripts but you cannot increase volume of default spy sounds because it seems the default values are already as high as they can be and everything higher is ignored. However you could make a mod that decreases volume of all sounds except the spy sounds and crank up your system volume. I'm too lazy to do such mod, though.
 
 
-
-
+**Q:** Why did you create this? It's basically a cheat!<br/>
+**A:** Yes, it is. It's a perfect, undetectable cheat. It has been discovered at least 6-7 years ago but not many people know about this and Valve doesn't seem to care much. I created this mod to prove it's possible to make such a mod and to increase the chance for Valve to patch it. 
 
 
 Video presentation:<br/>
