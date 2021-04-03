@@ -29,18 +29,18 @@ This mod changes decloaking sound to a whistling sound and dead ringer's fake de
 **A:** Yes.
 
 **Q:** Can it be detected by watching demos/P-REC demos?<br/>
-**A:** Absolutely not. What sound is heard on demos depends only on the watcher's tf2 configuration. So a person without this mod won't hear any difference.
+**A:** No. What sound is heard on demos depends only on the watcher's tf2 configuration. So a person without this mod won't hear any difference.
 
 **Q:** How does it work?<br/>
 **A:** Inside "tf2_misc_dir.vpk" file there is a file called "game_sounds_player.txt". That file tells the game what sound should be played for certain actions. The game doesn't verify at all whether you have modified that file or not. This has been known for years. BTW that's exactly how Mastercomfig's No Soundscapes mod works.
 
 
 **Q:** How can I make it less obvious? I'm a streamer.<br/>
-**A:** The game lets you control pitch and volume of sounds via scripts but you cannot increase volume of default spy sounds because it seems the default values are already as high as they can be and everything higher is ignored. However you could make a mod that decreases all sounds except the spy sounds and crank up your system volume. I'm too lazy to do such mod, though.
+**A:** The game lets you control pitch and volume of sounds via scripts but you cannot increase volume of default spy sounds because it seems the default values are already as high as they can be and everything higher is ignored. However you could make a mod that decreases volume of all sounds except the spy sounds and crank up your system volume. I'm too lazy to do such mod, though.
 
 
-**Q:** Why did you upload it to github instead of gamebanana or nexusmods?<br/>
-**A:** This mod was removed from the sites mentioned above.
+
+
 
 
 Video presentation:<br/>
